@@ -1,0 +1,7 @@
+{
+    "version":  "1.0.2",
+    "download_url":  "https://raw.githubusercontent.com/fxjxstin/Onyx-Releases/main/Onyx-Terminal-v1.0.2.exe",
+    "sha256":  "d1921d7972cdb9b32373d9187cf03bc8c3e3703bcfefb5c67608c678615f2d70",
+    "notes":  "Onyx Terminal v1.0.2 Release: Live-Update-System, dynamische Uhr ohne Sekunden, Macro Exhaustion Daten ohne Yahoo Finance.",
+    "mandatory":  false
+}
