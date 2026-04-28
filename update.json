@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
-    "download_url":  "https://raw.githubusercontent.com/fxjxstin/Onyx-Releases/main/Onyx-Terminal-Setup-v1.0.2.exe",
-    "sha256":  "77d65416a452f5b288d703a0a4749a5714950bdf8c8c6ed5385405f8af74968d",
-    "notes":  "Onyx Terminal v1.0.2 Release: Installer, Live-Update-System, dynamische Uhr ohne Sekunden, Macro Exhaustion Daten ohne Yahoo Finance.",
-    "mandatory":  false
+    "version":  "1.0.3",
+    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.3/Onyx-Terminal-Setup-v1.0.3.exe",
+    "sha256":  "939ff65f8f92b2534287c756ecd61239afbf1b97d269f301e5308c2d81bcf383",
+    "notes":  "Onyx Terminal v1.0.3 Release: behebt XGBoost DLL im Windows-Build und liefert den sauberen Installer.",
+    "mandatory":  true
 }
