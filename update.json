@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
-    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.5/Onyx-Terminal-Setup-v1.0.5.exe",
-    "sha256":  "b120b386d428ae0ee6c3b156bcb2c833163eb13d57bf2843fdd76a38585f2d59",
-    "notes":  "Onyx Terminal v1.0.5 Release.",
+    "version":  "1.0.6",
+    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.6/Onyx-Terminal-Setup-v1.0.6.exe",
+    "sha256":  "0e0d83e8922c3c35f4d3c4867b7fc053e21040646bd72a9268d27524eb6094f1",
+    "notes":  "Onyx Terminal v1.0.6 Auto-Update Release: installiert Updates silent und startet die App neu.",
     "mandatory":  true
 }
