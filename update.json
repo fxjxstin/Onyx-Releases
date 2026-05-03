@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
-    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.4/Onyx-Terminal-Setup-v1.0.4.exe",
-    "sha256":  "76f494df54d7d0b98ca01627e11f96c67a05f520aae498e145a738bc9d6a6775",
-    "notes":  "Onyx Terminal v1.0.4 Release: behebt das XGBoost VERSION-Bundling und wurde als Installer-Start getestet.",
+    "version":  "1.0.5",
+    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.5/Onyx-Terminal-Setup-v1.0.5.exe",
+    "sha256":  "b120b386d428ae0ee6c3b156bcb2c833163eb13d57bf2843fdd76a38585f2d59",
+    "notes":  "Onyx Terminal v1.0.5 Release.",
     "mandatory":  true
 }
