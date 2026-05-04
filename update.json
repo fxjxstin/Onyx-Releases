@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.6",
-    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.6/Onyx-Terminal-Setup-v1.0.6.exe",
-    "sha256":  "0e0d83e8922c3c35f4d3c4867b7fc053e21040646bd72a9268d27524eb6094f1",
-    "notes":  "Onyx Terminal v1.0.6 Auto-Update Release: installiert Updates silent und startet die App neu.",
+    "version":  "1.0.7",
+    "download_url":  "https://github.com/fxjxstin/Onyx-Releases/releases/download/v1.0.7/Onyx-Terminal-Setup-v1.0.7.exe",
+    "sha256":  "fec7bf1c520b30fb8a44181066a0d7a55015fe3051a79294f0883ea8b6b7d828",
+    "notes":  "Onyx Terminal v1.0.7: Macro ML V3 Boot aktualisiert alle Bias-Daten beim Start, True Range Chart Fix, sauberes Silent Update mit Auto-Restart.",
     "mandatory":  true
 }
